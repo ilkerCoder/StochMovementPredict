@@ -1,0 +1,1006 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,BRK.B,Berkshire Hathaway Inc.,873.94B,0.18%,562392,439.34B
+1,V,Visa Inc.,575.22B,-0.36%,779276,33.35B
+2,JPM,JPMorgan Chase & Co.,542.14B,-0.90%,1295145,158.10B
+3,MA,Mastercard Incorporated,437.77B,-0.61%,293962,25.10B
+4,BAC,Bank of America Corporation,280.27B,-0.28%,7274725,98.58B
+5,WFC,Wells Fargo & Company,204.16B,-0.43%,3295881,82.60B
+6,AXP,American Express Company,161.69B,-1.79%,586977,55.59B
+7,BX,Blackstone Inc.,152.68B,-1.06%,486066,8.02B
+8,HSBC,HSBC Holdings plc,143.25B,-0.97%,677667,66.06B
+9,MS,Morgan Stanley,142.33B,-1.19%,1091521,54.14B
+10,HDB,HDFC Bank Limited,141.50B,-0.57%,552549,13.76B
+11,RY,Royal Bank of Canada,140.79B,-0.50%,55192,40.69B
+12,SPGI,S&P Global Inc.,134.51B,-0.74%,174359,12.50B
+13,MUFG,"Mitsubishi UFJ Financial Group, Inc.",130.20B,-4.55%,1359997,30.79B
+14,GS,"The Goldman Sachs Group, Inc.",125.99B,-0.96%,390773,46.25B
+15,BLK,"BlackRock, Inc.",124.53B,-1.34%,103917,17.86B
+16,SCHW,The Charles Schwab Corporation,122.54B,-0.27%,1477065,18.84B
+17,PGR,The Progressive Corporation,116.20B,-0.83%,488490,62.11B
+18,C,Citigroup Inc.,109.92B,-0.80%,2740838,78.46B
+19,TD,The Toronto-Dominion Bank,107.18B,-0.38%,276275,36.86B
+20,CB,Chubb Limited,100.96B,0.66%,314421,49.74B
+21,MMC,"Marsh & McLennan Companies, Inc.",100.86B,-0.22%,156361,22.74B
+22,UBS,UBS Group AG,99.60B,0.02%,1249938,37.16B
+23,IBN,ICICI Bank Limited,92.27B,-0.44%,505223,22.65B
+24,KKR,KKR & Co. Inc.,87.75B,-0.63%,1101211,14.50B
+25,SMFG,"Sumitomo Mitsui Financial Group, Inc.",81.35B,-4.50%,571592,28.63B
+26,ICE,"Intercontinental Exchange, Inc.",78.35B,-1.10%,563833,9.90B
+27,CME,CME Group Inc.,76.67B,1.28%,257977,5.58B
+28,MCO,Moody's Corporation,70.65B,-0.71%,75476,5.92B
+29,SAN,"Banco Santander, S.A.",68.88B,-0.12%,677005,63.04B
+30,BMO,Bank of Montreal,68.43B,-0.22%,85382,24.15B
+31,USB,U.S. Bancorp,67.41B,-0.17%,1107824,25.74B
+32,ITUB,Itaú Unibanco Holding S.A.,66.87B,0.51%,3378335,21.85B
+33,BN,Brookfield Corporation,65.26B,0.49%,610712,95.62B
+34,PYPL,"PayPal Holdings, Inc.",63.24B,1.34%,3649952,29.77B
+35,BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",63.14B,0.19%,250684,35.84B
+36,AON,Aon plc,62.81B,-0.26%,57802,13.38B
+37,APO,"Apollo Global Management, Inc.",61.79B,-0.69%,618911,32.64B
+38,BNS,The Bank of Nova Scotia,61.44B,-0.74%,379980,24.42B
+39,PNC,"The PNC Financial Services Group, Inc.",59.80B,-0.01%,229825,21.49B
+40,AJG,Arthur J. Gallagher & Co.,54.57B,-0.56%,117366,10.07B
+41,MFG,"Mizuho Financial Group, Inc.",54.37B,-5.71%,866489,15.13B
+42,NU,Nu Holdings Ltd.,52.76B,3.34%,7963238,8.03B
+43,COF,Capital One Financial Corporation,52.20B,-0.31%,295390,26.36B
+44,MET,"MetLife, Inc.",51.28B,-0.20%,412219,66.91B
+45,AIG,"American International Group, Inc.",50.67B,0.22%,342206,46.80B
+46,TRV,"The Travelers Companies, Inc.",50.05B,-0.37%,147356,41.36B
+47,TFC,Truist Financial Corporation,49.96B,-1.16%,1134290,21.28B
+48,ING,ING Groep N.V.,48.56B,1.22%,1115327,24.66B
+49,AFL,Aflac Incorporated,47.38B,0.29%,243434,18.70B
+50,CM,Canadian Imperial Bank of Commerce,46.62B,-0.78%,189610,17.63B
+51,IBKR,"Interactive Brokers Group, Inc.",44.98B,-0.28%,269264,4.34B
+52,MSCI,MSCI Inc.,43.62B,0.17%,49200,2.53B
+53,MFC,Manulife Financial Corporation,43.01B,-0.25%,250989,25.32B
+54,BSBR,Banco Santander (Brasil) S.A.,42.55B,0.18%,60732,65.86B
+55,ARES,Ares Management Corporation,41.77B,-0.89%,104135,3.63B
+56,BK,The Bank of New York Mellon Corporation,41.76B,-0.84%,587453,17.50B
+57,AMP,"Ameriprise Financial, Inc.",41.32B,-0.73%,51940,15.54B
+58,ALL,The Allstate Corporation,41.28B,0.45%,278498,57.09B
+59,PRU,"Prudential Financial, Inc.",39.91B,-0.51%,175623,53.98B
+60,LYG,Lloyds Banking Group plc,39.57B,0.49%,4336093,61.65B
+61,NDAQ,"Nasdaq, Inc.",34.52B,-0.47%,310553,6.06B
+62,BCS,Barclays PLC,33.97B,0.95%,6083902,32.12B
+63,ACGL,Arch Capital Group Ltd.,32.78B,1.29%,259097,13.63B
+64,SLF,Sun Life Financial Inc.,32.24B,-0.40%,33673,23.18B
+65,DFS,Discover Financial Services,30.38B,-0.51%,183441,9.84B
+66,BBD,Banco Bradesco S.A.,29.69B,1.25%,3948608,15.48B
+67,NWG,NatWest Group plc,28.86B,-0.68%,279075,14.75B
+68,HIG,"The Hartford Financial Services Group, Inc.",28.80B,0.46%,320257,24.53B
+69,DB,Deutsche Bank Aktiengesellschaft,28.07B,1.22%,1132946,27.49B
+70,WTW,Willis Towers Watson PLC,28.05B,-0.67%,68120,9.48B
+71,PUK,Prudential plc,27.92B,0.12%,127770,10.20B
+72,TROW,"T. Rowe Price Group, Inc.",26.38B,-0.21%,178662,6.46B
+73,SYM,Symbotic Inc.,26.27B,2.91%,443310,1.34B
+74,IX,ORIX Corporation,25.40B,-3.51%,12494,19.11B
+75,RKT,"Rocket Companies, Inc.",25.28B,1.02%,627013,3.80B
+76,OWL,Blue Owl Capital Inc.,25.16B,-0.40%,486771,1.73B
+77,RJF,"Raymond James Financial, Inc.",25.13B,-1.33%,137017,11.85B
+78,FITB,Fifth Third Bancorp,24.86B,0.58%,1135611,8.19B
+79,BRO,"Brown & Brown, Inc.",24.35B,-0.49%,131683,4.26B
+80,MTB,M&T Bank Corporation,23.78B,0.53%,198518,9.00B
+81,TW,Tradeweb Markets Inc.,22.40B,0.17%,57655,1.34B
+82,FCNCA,"First Citizens BancShares, Inc.",22.39B,-1.39%,11951,17.41B
+83,FCNCO,"First Citizens BancShares, Inc.",22.08B,-0.13%,1938,17.41B
+84,STT,State Street Corporation,21.87B,-0.04%,259283,11.95B
+85,ERIE,Erie Indemnity Company,21.75B,-2.04%,16411,3.27B
+86,WRB,W. R. Berkley Corporation,21.65B,-0.01%,105472,12.14B
+87,KB,KB Financial Group Inc.,20.29B,-0.55%,48344,3.19B
+88,CBOE,"Cboe Global Markets, Inc.",19.71B,-1.30%,98765,3.77B
+89,LPLA,LPL Financial Holdings Inc.,19.65B,-0.42%,34688,10.05B
+90,HBAN,Huntington Bancshares Incorporated,19.65B,-0.74%,3288378,6.96B
+91,MKL,Markel Corporation,19.62B,-0.16%,4630,15.80B
+92,PFG,"Principal Financial Group, Inc.",18.86B,-0.52%,230212,13.67B
+93,NMR,"Nomura Holdings, Inc.",18.73B,-4.48%,939830,10.09B
+94,CINF,Cincinnati Financial Corporation,18.38B,-0.44%,126648,10.01B
+95,RF,Regions Financial Corporation,18.10B,-0.76%,720270,7.02B
+96,SHG,"Shinhan Financial Group Co., Ltd.",17.99B,-0.48%,19728,7.06B
+97,FDS,FactSet Research Systems Inc.,17.75B,0.73%,35246,2.12B
+98,SYF,Synchrony Financial,17.14B,0.05%,618905,7.66B
+99,CG,The Carlyle Group Inc.,17.09B,-0.96%,495359,2.96B
+100,NTRS,Northern Trust Corporation,16.69B,-1.11%,157333,6.75B
+101,L,Loews Corporation,16.63B,0.07%,82851,15.90B
+102,TPG,TPG Inc.,16.54B,-1.74%,110064,2.39B
+103,BAM,Brookfield Asset Management Inc.,16.46B,-1.06%,122771,4.05B
+104,EG,"Everest Group, Ltd.",15.86B,1.09%,42604,14.59B
+105,CFG,"Citizens Financial Group, Inc.",15.74B,-0.84%,871897,7.54B
+106,CRBG,"Corebridge Financial, Inc.",15.25B,0.57%,554222,18.88B
+107,BEN,"Franklin Resources, Inc.",14.77B,-0.12%,356222,7.87B
+108,RYAN,"Ryan Specialty Holdings, Inc.",14.14B,-0.75%,74025,2.08B
+109,BAP,Credicorp Ltd.,13.96B,-0.03%,70569,3.90B
+110,KEY,KeyCorp,13.93B,-0.47%,1704697,5.89B
+111,XP,XP Inc.,13.88B,0.91%,811283,3.05B
+112,FNF,"Fidelity National Financial, Inc.",13.76B,-0.10%,179080,11.75B
+113,MORN,"Morningstar, Inc.",13.19B,-0.60%,6505,2.04B
+114,KNSL,"Kinsale Capital Group, Inc.",12.19B,-1.64%,30314,1.22B
+115,RNR,RenaissanceRe Holdings Ltd.,12.14B,0.78%,30443,9.13B
+116,RGA,"Reinsurance Group of America, Incorporated",11.98B,0.14%,28875,18.57B
+117,ARCC,Ares Capital Corporation,11.94B,0.27%,1450733,2.61B
+118,CNA,CNA Financial Corporation,11.83B,-0.24%,18160,13.30B
+119,BCH,Banco de Chile,11.73B,-0.78%,33894,3.21B
+120,GL,Globe Life Inc.,11.58B,-0.04%,195500,5.45B
+121,ALLY,Ally Financial Inc.,11.38B,-0.64%,645848,8.21B
+122,EQH,"Equitable Holdings, Inc.",11.08B,-0.06%,343416,10.53B
+123,AFG,"American Financial Group, Inc.",10.77B,-0.30%,33985,7.83B
+124,EWBC,"East West Bancorp, Inc.",10.76B,0.21%,341398,2.48B
+125,UWMC,UWM Holdings Corporation,10.63B,0.08%,237786,1.31B
+126,AEG,Aegon N.V.,10.39B,-0.34%,469652,-11.08B
+127,UNM,Unum Group,9.65B,-0.77%,172909,12.39B
+128,AIZ,"Assurant, Inc.",9.28B,-0.74%,44491,11.13B
+129,JEF,Jefferies Financial Group Inc.,9.18B,-1.20%,81017,4.70B
+130,BSAC,Banco Santander-Chile,9.11B,-0.16%,7959,2.19B
+131,SEIC,SEI Investments Company,9.07B,-0.04%,103828,1.92B
+132,PRI,"Primerica, Inc.",8.61B,-0.69%,8434,2.82B
+133,HLI,"Houlihan Lokey, Inc.",8.61B,-0.35%,24065,1.84B
+134,WF,Woori Financial Group Inc.,8.39B,0.06%,6514,8.25B
+135,FHN,First Horizon Corporation,8.37B,-0.73%,1369171,3.21B
+136,WBS,Webster Financial Corporation,8.36B,0.05%,83706,2.50B
+137,MKTX,MarketAxess Holdings Inc.,8.15B,1.82%,160335,752.55M
+138,ORI,Old Republic International Corporation,8.05B,0.17%,213669,7.26B
+139,CIB,Bancolombia S.A.,8.03B,0.35%,11157,4.25B
+140,FUTU,Futu Holdings Limited,7.99B,5.17%,1047334,1.27B
+141,SF,Stifel Financial Corp.,7.73B,-1.82%,77507,4.35B
+142,EVR,Evercore Inc.,7.59B,-1.36%,188075,2.43B
+143,SOFI,"SoFi Technologies, Inc.",7.53B,-0.45%,17036639,2.12B
+144,IVZ,Invesco Ltd.,7.13B,-0.82%,457201,5.72B
+145,CFR,Cullen Frost Bankers Inc.,6.98B,-0.63%,29822,1.94B
+146,CMA,Comerica Incorporated,6.98B,-0.86%,342736,3.50B
+147,VOYA,"Voya Financial, Inc.",6.97B,0.19%,155172,7.35B
+148,CACC,Credit Acceptance Corporation,6.85B,-0.89%,10352,1.90B
+149,CBSH,"Commerce Bancshares, Inc.",6.84B,-0.28%,27616,1.54B
+150,RLI,RLI Corp.,6.69B,-0.14%,11926,1.51B
+151,WAL,Western Alliance Bancorporation,6.64B,-2.55%,272260,2.56B
+152,PNFP,"Pinnacle Financial Partners, Inc.",6.44B,-0.01%,116770,1.60B
+153,SSB,SouthState Corporation,6.39B,-0.43%,20620,1.63B
+154,SIGI,"Selective Insurance Group, Inc.",6.34B,-0.12%,11787,4.23B
+155,MARA,"Marathon Digital Holdings, Inc.",6.28B,-3.71%,29743051,387.51M
+156,ZION,"Zions Bancorporation,NA",6.26B,-1.48%,449445,2.98B
+157,BPOP,"Popular, Inc.",6.13B,-0.94%,93359,2.57B
+158,HLNE,Hamilton Lane Incorporated,6.04B,-0.93%,10011,489.97M
+159,WTFC,Wintrust Financial Corporation,6.00B,-0.99%,64358,2.16B
+160,PB,"Prosperity Bancshares, Inc.",5.90B,0.22%,47779,1.09B
+161,OBDC,Blue Owl Capital Corporation,5.88B,0.07%,423195,1.58B
+162,SNV,Synovus Financial Corp.,5.80B,-0.48%,61707,2.03B
+163,OMF,"OneMain Holdings, Inc.",5.79B,0.06%,78270,2.56B
+164,ESNT,Essent Group Ltd.,5.77B,1.11%,103614,1.11B
+165,FAF,First American Financial Corporation,5.75B,0.28%,103492,6.00B
+166,BOKF,BOK Financial Corporation,5.67B,-0.83%,20153,2.02B
+167,FSK,FS KKR Capital Corp.,5.38B,0.47%,539925,1.83B
+168,MTG,MGIC Investment Corporation,5.33B,2.94%,517420,1.16B
+169,FCFS,"FirstCash Holdings, Inc",5.25B,0.08%,18188,3.15B
+170,AMG,"Affiliated Managers Group, Inc.",5.22B,-0.09%,19659,2.06B
+171,JHG,Janus Henderson Group plc,5.19B,-0.75%,78798,2.10B
+172,AXS,AXIS Capital Holdings Limited,5.17B,0.41%,94402,5.64B
+173,CADE,Cadence Bank,5.09B,0.04%,166883,1.65B
+174,AGO,Assured Guaranty Ltd.,5.01B,-0.86%,31119,1.37B
+175,OZK,Bank OZK,4.99B,-0.27%,202928,1.79B
+176,ONB,Old National Bancorp,4.91B,-0.12%,157889,1.78B
+177,FNB,F.N.B. Corporation,4.90B,-0.22%,134199,1.50B
+178,HOMB,"Home Bancshares, Inc. (Conway, AR)",4.82B,0.23%,92866,984.75M
+179,WU,The Western Union Company,4.80B,-,769926,4.36B
+180,BNRE,Brookfield Reinsurance Ltd.,4.73B,0.07%,1772,6.25B
+181,UBSI,"United Bankshares, Inc.",4.72B,0.94%,88726,1.02B
+182,THG,"The Hanover Insurance Group, Inc.",4.66B,-0.18%,7980,5.99B
+183,FFIN,"First Financial Bankshares, Inc.",4.65B,-0.12%,27852,481.18M
+184,COOP,Mr. Cooper Group Inc.,4.64B,-0.67%,26093,1.79B
+185,LNC,Lincoln National Corporation,4.59B,-1.15%,256770,11.65B
+186,GBCI,"Glacier Bancorp, Inc.",4.59B,-0.12%,68363,794.97M
+187,DNB,"Dun & Bradstreet Holdings, Inc.",4.58B,-1.05%,223987,2.31B
+188,JXN,Jackson Financial Inc.,4.57B,2.09%,358947,3.16B
+189,ACT,"Enact Holdings, Inc.",4.57B,1.41%,35244,1.15B
+190,SLM,SLM Corporation,4.56B,0.39%,676648,1.46B
+191,FG,"F&G Annuities & Life, Inc.",4.54B,-0.42%,6936,4.50B
+192,ESGR,Enstar Group Limited,4.49B,-0.23%,2339,1.43B
+193,RDN,Radian Group Inc.,4.47B,4.44%,613772,1.24B
+194,FRHC,Freedom Holding Corp.,4.42B,0.20%,4131,1.40B
+195,AEL,American Equity Investment Life Holding Company,4.41B,0.02%,25374,2.84B
+196,BNRE.A,Brookfield Reinsurance Ltd,4.40B,-1.19%,500,6.25B
+197,WTM,"White Mountains Insurance Group, Ltd.",4.40B,0.45%,3794,2.17B
+198,PFSI,"PennyMac Financial Services, Inc.",4.38B,-1.29%,44184,1.40B
+199,COLB,"Columbia Banking System, Inc.",4.07B,0.38%,472951,1.78B
+200,GGAL,Grupo Financiero Galicia S.A.,4.05B,-2.39%,96774,1.73B
+201,VLY,Valley National Bancorp,4.05B,2.95%,2016662,1.84B
+202,UMBF,UMB Financial Corporation,4.04B,-0.53%,13283,1.42B
+203,CRVL,CorVel Corporation,3.98B,-0.58%,3068,773.52M
+204,PJT,PJT Partners Inc.,3.96B,-0.46%,50757,1.15B
+205,MAIN,Main Street Capital Corporation,3.90B,0.50%,63637,500.39M
+206,AB,AllianceBernstein Holding L.P.,3.87B,-0.45%,47761,299.78M
+207,HWC,Hancock Whitney Corporation,3.84B,-0.85%,28434,1.33B
+208,STEP,StepStone Group Inc.,3.83B,-0.15%,31229,527.20M
+209,CNS,"Cohen & Steers, Inc.",3.74B,-,11456,489.64M
+210,KMPR,Kemper Corporation,3.71B,0.73%,33799,4.94B
+211,TFSL,TFS Financial Corporation,3.60B,-0.39%,32224,301.59M
+212,SFBS,"ServisFirst Bancshares, Inc.",3.57B,0.02%,8615,422.64M
+213,MC,Moelis & Company,3.55B,-0.90%,72347,854.75M
+214,AMTD,AMTD IDEA Group,3.51B,1.52%,2869,235.75M
+215,LAZ,Lazard Ltd,3.45B,-1.41%,90705,2.52B
+216,BGC,"BGC Group, Inc",3.39B,-0.82%,825603,2.03B
+217,IBOC,International Bancshares Corporation,3.35B,0.56%,25987,798.87M
+218,NNI,"Nelnet, Inc.",3.28B,-0.58%,21452,1.15B
+219,ABCB,Ameris Bancorp,3.28B,-,14039,935.22M
+220,IFS,Intercorp Financial Services Inc.,3.25B,0.39%,2580,1.15B
+221,ASB,Associated Banc-Corp,3.19B,-0.76%,143119,1.02B
+222,UCBI,"United Community Banks, Inc.",3.12B,-0.19%,32710,803.82M
+223,WD,"Walker & Dunlop, Inc.",3.11B,-0.01%,72078,1.05B
+224,APAM,Artisan Partners Asset Management Inc.,3.08B,-0.40%,30150,975.13M
+225,LU,Lufax Holding Ltd,3.08B,5.09%,943168,5.46B
+226,BUR,Burford Capital Limited,3.07B,-1.46%,203221,-
+227,BMA,Banco Macro S.A.,3.05B,-2.58%,20020,2.81B
+228,AVAL,Grupo Aval Acciones y Valores S.A.,3.03B,-1.22%,3338,2.82B
+229,VIRT,"Virtu Financial, Inc.",3.02B,1.88%,109463,2.29B
+230,HGTY,"Hagerty, Inc.",3.01B,-0.11%,9330,952.17M
+231,GSHD,"Goosehead Insurance, Inc",3.01B,-2.40%,23119,261.28M
+232,FHI,"Federated Hermes, Inc.",2.98B,1.03%,108237,1.61B
+233,CATY,Cathay General Bancorp,2.95B,-0.79%,43186,784.06M
+234,BANF,BancFirst Corporation,2.94B,-0.41%,1494,602.41M
+235,AX,"Axos Financial, Inc.",2.93B,0.08%,82855,1.03B
+236,CNO,"CNO Financial Group, Inc.",2.92B,-0.77%,67072,4.15B
+237,BHF,"Brighthouse Financial, Inc.",2.91B,0.28%,30560,4.12B
+238,PIPR,Piper Sandler Companies,2.90B,-0.69%,14959,1.35B
+239,FBP,First BanCorp.,2.88B,-1.54%,148363,868.86M
+240,TCBI,"Texas Capital Bancshares, Inc.",2.88B,-0.13%,80111,1.00B
+241,HTGC,"Hercules Capital, Inc.",2.87B,0.08%,216053,460.67M
+242,FIBK,"First Interstate BancSystem, Inc.",2.76B,1.05%,292492,993.60M
+243,GNW,"Genworth Financial, Inc.",2.75B,0.24%,592658,7.49B
+244,FHB,"First Hawaiian, Inc.",2.74B,-,59798,810.31M
+245,AMK,"AssetMark Financial Holdings, Inc.",2.69B,-1.44%,16418,714.45M
+246,GBDC,"Golub Capital BDC, Inc.",2.68B,0.16%,146151,630.98M
+247,MCY,Mercury General Corporation,2.68B,-1.78%,18325,4.63B
+248,WSFS,WSFS Financial Corporation,2.63B,0.18%,20418,926.90M
+249,AUB,Atlantic Union Bankshares Corporation,2.63B,-0.58%,23430,670.27M
+250,INTR,"Inter & Co, Inc.",2.62B,1.24%,303645,975.89M
+251,VCTR,"Victory Capital Holdings, Inc.",2.55B,-0.68%,52885,821.03M
+252,FULT,Fulton Financial Corporation,2.52B,-0.10%,213233,1.03B
+253,CBU,"Community Bank System, Inc.",2.52B,0.76%,45380,640.92M
+254,QFIN,Qifu Technology Inc.,2.51B,0.58%,325009,2.16B
+255,BOH,Bank of Hawaii Corporation,2.49B,0.29%,45401,664.63M
+256,SFNC,Simmons First National Corporation,2.47B,-0.30%,39121,763.66M
+257,NYCB,"New York Community Bancorp, Inc.",2.47B,-4.53%,14690645,5.07B
+258,CVBF,CVB Financial Corp.,2.47B,0.45%,95472,545.32M
+259,NMIH,"NMI Holdings, Inc.",2.37B,2.29%,51771,579.00M
+260,UPST,"Upstart Holdings, Inc.",2.36B,-1.68%,1695621,513.56M
+261,EBC,"Eastern Bankshares, Inc.",2.34B,2.38%,257989,292.60M
+262,BANC,"Banc of California, Inc.",2.34B,0.91%,758464,246.84M
+263,PUYI,Puyi Inc.,2.32B,1.60%,4204,15.81M
+264,WAFD,WaFd Inc,2.30B,0.32%,31886,673.02M
+265,PPBI,"Pacific Premier Bancorp, Inc.",2.27B,-0.38%,65273,440.99M
+266,PAX,Patria Investments Limited,2.20B,-0.07%,39302,307.16M
+267,INDB,Independent Bank Corp.,2.20B,1.25%,38401,707.88M
+268,PSEC,Prospect Capital Corporation,2.17B,-,559707,883.81M
+269,PRK,Park National Corporation,2.16B,-1.21%,4057,462.84M
+270,SNEX,StoneX Group Inc.,2.16B,-1.49%,13629,67.42B
+271,SBCF,Seacoast Banking Corporation of Florida,2.13B,-0.50%,24336,529.87M
+272,FFBC,First Financial Bancorp.,2.10B,-0.27%,31120,797.09M
+273,SPNT,SiriusPoint Ltd.,2.07B,-0.25%,40188,2.74B
+274,TOWN,TowneBank,2.06B,-1.00%,13473,770.52M
+275,HTH,Hilltop Holdings Inc.,2.06B,-0.28%,15279,1.18B
+276,FRME,First Merchants Corporation,2.06B,-0.89%,40390,647.50M
+277,BKU,"BankUnited, Inc.",2.05B,0.91%,71343,873.04M
+278,AGM.A,Federal Agricultural Mortgage Corporation,1.96B,-,16,350.20M
+279,AGM,Federal Agricultural Mortgage Corporation,1.96B,0.35%,6765,350.20M
+280,TBBK,"The Bancorp, Inc.",1.94B,1.37%,117920,447.82M
+281,TSLX,"Sixth Street Specialty Lending, Inc.",1.93B,0.66%,100661,438.09M
+282,MBIN,Merchants Bancorp,1.93B,-1.09%,4852,482.46M
+283,BFH,"Bread Financial Holdings, Inc.",1.92B,-3.21%,109938,3.06B
+284,BRP,"BRP Group, Inc.",1.90B,-1.81%,52295,1.22B
+285,IBTX,"Independent Bank Group, Inc.",1.88B,-0.07%,29833,503.86M
+286,NAVI,Navient Corporation,1.85B,0.30%,75685,1.15B
+287,PLMR,"Palomar Holdings, Inc.",1.85B,-1.19%,12372,375.93M
+288,DFIN,"Donnelley Financial Solutions, Inc.",1.84B,-0.44%,12937,797.20M
+289,BBAR,BBVA Argentina,1.81B,-3.93%,274619,976.05M
+290,LOB,"Live Oak Bancshares, Inc.",1.81B,-0.85%,12131,405.72M
+291,ENVA,"Enova International, Inc.",1.79B,-1.50%,21421,1.23B
+292,VRTS,"Virtus Investment Partners, Inc.",1.78B,-1.50%,12676,845.27M
+293,RNST,Renasant Corporation,1.77B,-0.54%,14225,616.81M
+294,NWLI,"National Western Life Group, Inc.",1.77B,0.12%,510,703.35M
+295,OFG,OFG Bancorp,1.76B,-3.71%,51542,628.61M
+296,WSBC,"WesBanco, Inc.",1.75B,0.88%,41360,584.05M
+297,TFIN,"Triumph Financial, Inc.",1.75B,-0.91%,26203,406.05M
+298,CLBK,"Columbia Financial, Inc.",1.73B,0.97%,7616,228.47M
+299,LKFN,Lakeland Financial Corporation,1.73B,-1.55%,49615,241.04M
+300,CUBI,"Customers Bancorp, Inc.",1.72B,-1.37%,36514,683.40M
+301,FBK,FB Financial Corporation,1.72B,-0.16%,5485,475.22M
+302,GSBD,"Goldman Sachs BDC, Inc.",1.70B,-0.10%,87512,454.91M
+303,BBUC,Brookfield Business Corporation,1.68B,-1.72%,1259,7.68B
+304,STC,Stewart Information Services Corporation,1.68B,-0.54%,60598,2.21B
+305,NBTB,NBT Bancorp Inc.,1.65B,0.68%,14426,495.12M
+306,TRMK,Trustmark Corporation,1.65B,-0.37%,16907,735.26M
+307,GCMG,GCM Grosvenor Inc,1.62B,1.04%,41834,445.00M
+308,BANR,Banner Corporation,1.60B,0.19%,13300,609.63M
+309,OCSL,Oaktree Specialty Lending Corporation,1.56B,0.76%,157102,398.09M
+310,CHCO,City Holding Company,1.55B,-0.73%,5362,286.63M
+311,EFSC,Enterprise Financial Services Corp,1.50B,-0.22%,9111,594.71M
+312,FIHL,Fidelis Insurance Holdings Limited,1.50B,0.90%,62281,3.60B
+313,HTLF,"Heartland Financial USA, Inc.",1.49B,-1.20%,27882,558.60M
+314,DWAC,Digital World Acquisition Corp.,1.49B,-1.23%,292585,-
+315,NWBI,"Northwest Bancshares, Inc.",1.48B,-1.12%,134881,526.63M
+316,FBNC,First Bancorp,1.45B,-0.28%,11897,386.34M
+317,HMN,Horace Mann Educators Corporation,1.44B,-0.57%,17855,1.49B
+318,SKWD,"Skyward Specialty Insurance Group, Inc.",1.42B,-0.14%,26323,827.04M
+319,NTB,The Bank of N.T. Butterfield & Son Limited,1.41B,-0.63%,27419,578.60M
+320,FINV,FinVolution Group,1.40B,1.30%,134892,1.70B
+321,FCF,First Commonwealth Financial Corporation,1.38B,-,44251,467.47M
+322,HOPE,"Hope Bancorp, Inc.",1.36B,-0.84%,40094,542.34M
+323,SYBT,"Stock Yards Bancorp, Inc.",1.36B,-0.45%,7259,325.76M
+324,NMFC,New Mountain Finance Corporation,1.31B,0.08%,139554,374.84M
+325,BUSE,First Busey Corporation,1.31B,-0.17%,9014,439.44M
+326,CASH,"Pathward Financial, Inc.",1.30B,-1.00%,15633,659.96M
+327,NBHC,National Bank Holdings Corporation,1.30B,0.51%,9370,417.57M
+328,STEL,"Stellar Bancorp, Inc.",1.29B,-0.04%,8279,452.38M
+329,WABC,Westamerica Bancorporation,1.29B,-1.01%,8641,324.80M
+330,WT,"WisdomTree, Inc.",1.28B,0.18%,159678,349.04M
+331,SRCE,1st Source Corporation,1.26B,0.13%,8380,363.40M
+332,LMND,"Lemonade, Inc.",1.25B,-2.11%,1027628,429.80M
+333,PWP,Perella Weinberg Partners,1.24B,-1.42%,35332,648.65M
+334,TRUP,"Trupanion, Inc.",1.24B,-0.83%,73310,1.11B
+335,NIC,"Nicolet Bankshares, Inc.",1.23B,0.23%,4536,272.50M
+336,NRDS,"NerdWallet, Inc.",1.23B,0.41%,43614,599.40M
+337,STBA,"S&T Bancorp, Inc.",1.23B,-0.84%,19777,389.14M
+338,ECPG,"Encore Capital Group, Inc.",1.18B,-1.36%,6089,1.22B
+339,TCBK,TriCo Bancshares,1.18B,-0.79%,4423,407.96M
+340,SAFT,"Safety Insurance Group, Inc.",1.17B,-0.25%,5097,930.96M
+341,PFS,"Provident Financial Services, Inc.",1.15B,-0.03%,45175,451.38M
+342,EIG,"Employers Holdings, Inc.",1.13B,-0.55%,10839,850.90M
+343,CET,Central Securities Corp.,1.12B,-0.27%,4369,57.37M
+344,VBTX,"Veritex Holdings, Inc.",1.12B,-1.07%,79349,377.75M
+345,HCI,"HCI Group, Inc.",1.10B,-0.50%,76093,550.67M
+346,CSWC,Capital Southwest Corporation,1.05B,0.41%,135294,168.90M
+347,CIFR,Cipher Mining Inc.,1.04B,-0.28%,3238690,-
+348,BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",1.04B,-0.42%,12955,166.67M
+349,PFBC,Preferred Bank,1.04B,-2.07%,7568,351.76M
+350,BBDC,"Barings BDC, Inc.",1.03B,-2.27%,377805,289.20M
+351,BCSF,"Bain Capital Specialty Finance, Inc.",1.02B,0.06%,61288,297.79M
+352,PEBO,Peoples Bancorp Inc.,1.01B,-0.82%,9727,411.61M
+353,PRAA,"PRA Group, Inc.",1.01B,-2.13%,8824,802.55M
+354,AMSF,"AMERISAFE, Inc.",1.01B,-0.91%,9404,306.85M
+355,SASR,"Sandy Spring Bancorp, Inc.",1.01B,-2.05%,91278,439.19M
+356,SCRM,Screaming Eagle Acquisition Corp.,1.00B,0.05%,23777,-
+357,GABC,"German American Bancorp, Inc.",994.64M,-0.45%,14006,248.14M
+358,BHLB,"Berkshire Hills Bancorp, Inc.",981.55M,-0.29%,18396,411.83M
+359,CVII,Churchill Capital Corp VII,976.99M,-,6005,-
+360,RBCAA,"Republic Bancorp, Inc.",971.87M,-0.88%,353,311.88M
+361,QCRH,"QCR Holdings, Inc.",967.27M,-0.56%,6627,337.15M
+362,MFIC,MidCap Financial Investment Corporation,966.40M,-,82524,276.52M
+363,OBK,"Origin Bancorp, Inc.",963.74M,0.53%,13884,341.14M
+364,PX,"P10, Inc.",946.18M,1.42%,104330,237.01M
+365,SII,Sprott Inc.,939.57M,0.94%,10820,169.02M
+366,BY,"Byline Bancorp, Inc.",937.28M,-0.38%,9055,355.28M
+367,OCFC,OceanFirst Financial Corp.,903.17M,-0.42%,25794,385.68M
+368,BITF,Bitfarms Ltd.,892.19M,-10.49%,16072703,146.37M
+369,LC,LendingClub Corporation,891.02M,-,168879,864.62M
+370,BRKL,"Brookline Bancorp, Inc.",880.06M,-0.76%,41039,333.44M
+371,BSIG,BrightSphere Investment Group Inc.,877.25M,-0.87%,18872,426.60M
+372,SBSI,"Southside Bancshares, Inc.",872.57M,-0.45%,10668,241.71M
+373,GHLD,Guild Holdings Company,863.30M,-0.92%,2071,732.26M
+374,LPRO,Open Lending Corporation,861.86M,0.14%,72126,117.46M
+375,LDI,"loanDepot, Inc.",858.29M,-1.13%,87912,915.05M
+376,SLRC,SLR Investment Corp.,853.78M,0.80%,89661,229.31M
+377,MTAL,Metals Acquisition Corp,850.98M,-3.59%,1539,302.46M
+378,BFC,Bank First Corporation,845.83M,-0.30%,3962,186.91M
+379,HG,"Hamilton Insurance Group, Ltd.",839.98M,-0.49%,22615,1.57B
+380,AMTB,Amerant Bancorp Inc.,832.36M,-1.08%,13094,352.68M
+381,CGBD,"Carlyle Secured Lending, Inc.",826.94M,0.37%,56072,241.63M
+382,BRDG,Bridge Investment Group Holdings Inc.,826.89M,-2.05%,84546,259.81M
+383,FBMS,"The First Bancshares, Inc.",811.93M,-0.42%,17288,281.53M
+384,LBAI,"Lakeland Bancorp, Inc.",806.44M,-0.08%,16140,293.77M
+385,WRLD,World Acceptance Corporation,797.85M,0.02%,12280,575.18M
+386,CFFN,"Capitol Federal Financial, Inc.",787.69M,-0.85%,68704,-41.97M
+387,ABL,"Abacus Life, Inc.",784.27M,-0.18%,470,66.37M
+388,ECC,Eagle Point Credit Company Inc.,774.10M,-0.45%,118302,122.65M
+389,GRNT,"Granite Ridge Resources, Inc",771.75M,-0.76%,54950,394.07M
+390,ALTI,"AlTi Global, Inc.",758.36M,2.69%,16636,183.89M
+391,CNOB,"ConnectOne Bancorp, Inc.",753.49M,0.54%,27037,260.91M
+392,FMBH,"First Mid Bancshares, Inc.",740.34M,-0.71%,1908,274.15M
+393,CTBI,"Community Trust Bancorp, Inc.",736.87M,0.32%,4627,223.96M
+394,PFC,Premier Financial Corp.,732.82M,-0.39%,11098,302.71M
+395,AMAL,Amalgamated Financial Corp.,732.23M,-0.13%,16252,275.98M
+396,DCOM,"Dime Community Bancshares, Inc.",723.74M,-1.53%,17189,350.01M
+397,TMP,Tompkins Financial Corporation,723.33M,0.24%,5129,215.42M
+398,AC,"Associated Capital Group, Inc.",720.22M,-0.54%,632,14.59M
+399,RILY,"B. Riley Financial, Inc.",711.05M,-7.23%,456922,1.79B
+400,EGBN,"Eagle Bancorp, Inc.",708.72M,-1.44%,50183,280.81M
+401,HUT,Hut 8 Mining Corp.,705.48M,-4.67%,1861676,116.50M
+402,PFLT,PennantPark Floating Rate Capital Ltd.,701.94M,-,253014,145.97M
+403,AMBC,"Ambac Financial Group, Inc.",695.11M,-0.20%,29896,269.00M
+404,NOAH,Noah Holdings Limited,693.16M,2.16%,31412,464.55M
+405,GHIX,"Gores Holdings IX, Inc.",691.03M,-,6,-
+406,TRIN,Trinity Capital Inc.,689.59M,0.57%,111518,181.86M
+407,HFWA,Heritage Financial Corporation,669.50M,0.10%,13545,239.54M
+408,ROOT,"Root, Inc.",668.24M,-5.55%,258914,455.00M
+409,AMRK,"A-Mark Precious Metals, Inc.",651.58M,1.75%,31513,10.00B
+410,TIGR,UP Fintech Holding Limited,644.73M,6.66%,836080,228.23M
+411,CFB,"CrossFirst Bankshares, Inc.",642.97M,0.61%,19169,231.02M
+412,AACT,Ares Acquisition Corporation II,639.44M,-0.09%,10108,-
+413,PRA,ProAssurance Corporation,639.17M,-1.36%,20303,1.14B
+414,CCAP,"Crescent Capital BDC, Inc.",629.67M,-0.23%,11747,184.13M
+415,TIPT,Tiptree Inc.,621.26M,-1.45%,2919,1.65B
+416,FCBC,"First Community Bankshares, Inc.",618.54M,-0.61%,1609,157.15M
+417,GSBC,"Great Southern Bancorp, Inc.",618.43M,-0.32%,7857,235.16M
+418,MCBS,"MetroCity Bankshares, Inc.",617.05M,-1.96%,19394,121.75M
+419,OSBC,"Old Second Bancorp, Inc.",615.12M,0.11%,16514,269.61M
+420,HBT,"HBT Financial, Inc.",614.83M,-,394,219.55M
+421,VINP,Vinci Partners Investments Ltd.,610.39M,2.11%,32942,93.31M
+422,TCPC,BlackRock TCP Capital Corp.,607.71M,1.62%,165942,209.33M
+423,FDUS,Fidus Investment Corporation,602.20M,-0.56%,152111,130.11M
+424,MBWM,Mercantile Bank Corporation,600.02M,-0.48%,8367,217.99M
+425,UVSP,Univest Financial Corporation,597.07M,0.10%,14791,286.05M
+426,CION,CION Investment Corporation,596.21M,0.05%,63290,246.51M
+427,NBBK,"NB Bancorp, Inc.",589.77M,0.40%,17025,-
+428,SAGA,Sagaliam Acquisition Corp.,586.89M,-,7,-
+429,UVE,"Universal Insurance Holdings, Inc.",586.84M,-2.91%,33617,1.39B
+430,EZPW,"EZCORP, Inc.",584.63M,-0.99%,75780,1.08B
+431,IGIC,International General Insurance Holdings Ltd.,581.78M,-0.28%,3290,446.20M
+432,UFCS,"United Fire Group, Inc.",571.77M,-2.06%,12510,1.10B
+433,BFST,"Business First Bancshares, Inc.",569.76M,-0.24%,1841,247.29M
+434,APLD,Applied Digital Corporation,560.19M,-1.96%,976967,114.65M
+435,IREN,Iris Energy Limited,556.58M,1.68%,4430043,85.48M
+436,HBNC,"Horizon Bancorp, Inc.",551.77M,-0.96%,25288,220.44M
+437,VEL,"Velocity Financial, Inc.",549.84M,0.90%,3192,152.00M
+438,TREE,"LendingTree, Inc.",542.91M,-2.23%,89049,672.50M
+439,PSBD,Palmer Square Capital BDC Inc.,535.82M,1.29%,9143,112.22M
+440,QD,Qudian Inc.,535.26M,1.89%,648828,30.62M
+441,TRST,TrustCo Bank Corp NY,530.78M,-0.23%,6586,201.09M
+442,MSBI,"Midland States Bancorp, Inc.",527.92M,-0.86%,2985,281.48M
+443,HTBK,Heritage Commerce Corp,525.86M,-0.58%,24466,201.52M
+444,CPF,Central Pacific Financial Corp.,524.13M,0.46%,21285,240.97M
+445,SUPV,Grupo Supervielle S.A.,522.68M,-1.31%,157539,626.77M
+446,IBCP,Independent Bank Corporation,513.39M,-0.24%,8228,200.80M
+447,CATC,Cambridge Bancorp,512.23M,1.52%,2871,170.88M
+448,GAIN,Gladstone Investment Corporation,504.62M,-0.14%,32450,83.52M
+449,FMNB,Farmers National Banc Corp.,503.12M,-,6065,170.49M
+450,AMNB,American National Bankshares Inc.,502.80M,-0.16%,1874,105.22M
+451,CCB,Coastal Financial Corporation,501.44M,0.29%,8030,261.00M
+452,SMBC,"Southern Missouri Bancorp, Inc.",499.16M,-0.05%,809,153.93M
+453,EQBK,"Equity Bancshares, Inc.",493.24M,-0.19%,7531,138.02M
+454,GCBC,"Greene County Bancorp, Inc.",486.12M,-,53,68.41M
+455,WULF,TeraWulf Inc.,484.24M,-4.73%,6855893,55.51M
+456,CCBG,"Capital City Bank Group, Inc.",480.65M,-0.34%,1796,216.36M
+457,CAC,Camden National Corporation,479.51M,1.12%,2908,161.20M
+458,HAFC,Hanmi Financial Corporation,477.31M,-0.63%,39320,251.11M
+459,RWAY,Runway Growth Finance Corp.,468.29M,1.95%,279220,164.21M
+460,HONE,"HarborOne Bancorp, Inc.",464.59M,-0.10%,20132,163.45M
+461,ALCC,AltC Acquisition Corp.,463.76M,0.17%,9529,-
+462,GDOT,Green Dot Corporation,462.79M,2.00%,112339,1.50B
+463,FFWM,First Foundation Inc.,459.08M,-0.25%,26507,252.14M
+464,DGICA,Donegal Group Inc.,455.98M,-0.55%,9125,927.34M
+465,DGICB,Donegal Group Inc.,454.98M,-,4,927.34M
+466,NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",453.98M,-1.27%,18291,135.21M
+467,WDH,Waterdrop Inc.,450.41M,-2.12%,158549,364.62M
+468,ATLC,Atlanticus Holdings Corporation,449.36M,0.96%,1567,354.81M
+469,GLAD,Gladstone Capital Corporation,447.92M,0.24%,60623,90.36M
+470,BETR,Better Home & Finance Holding Company,446.35M,-1.46%,123513,450.55M
+471,WASH,"Washington Trust Bancorp, Inc.",445.59M,0.19%,8134,190.04M
+472,THFF,First Financial Corporation,444.67M,0.03%,4775,205.83M
+473,HTBI,"HomeTrust Bancshares, Inc.",443.89M,0.51%,1781,183.36M
+474,MCB,Metropolitan Bank Holding Corp.,442.50M,-0.65%,12440,238.46M
+475,PNNT,PennantPark Investment Corporation,442.22M,0.29%,103848,149.74M
+476,ANSC,Agriculture & Natural Solutions Acquisition Corporation,438.04M,-0.02%,6,-
+477,ALRS,Alerus Financial Corporation,436.52M,1.13%,3201,166.01M
+478,ACIC,American Coastal Insurance Corporation,435.80M,0.50%,53307,341.80M
+479,HIPO,Hippo Holdings Inc.,435.41M,3.15%,51050,209.70M
+480,SLAM,Slam Corp.,434.43M,-,3,-
+481,YRD,Yiren Digital Ltd.,431.55M,2.67%,24140,647.79M
+482,DHIL,"Diamond Hill Investment Group, Inc.",430.89M,0.50%,1781,136.72M
+483,PGC,Peapack-Gladstone Financial Corporation,430.19M,0.04%,10878,229.26M
+484,GLRE,"Greenlight Capital Re, Ltd.",427.17M,-0.46%,9665,667.08M
+485,SPFI,"South Plains Financial, Inc.",424.38M,-0.85%,1090,219.41M
+486,AROW,Arrow Financial Corporation,421.87M,0.30%,2615,134.33M
+487,CCNE,CNB Financial Corporation,420.54M,0.17%,1594,217.17M
+488,NBN,Northeast Bank,416.70M,-0.75%,1989,142.81M
+489,GFR,Greenfire Resources Ltd,415.97M,-2.52%,101,-
+490,FSBC,Five Star Bancorp,413.18M,-1.47%,585,114.39M
+491,BHRB,Burke & Herbert Bank & Trust Company,413.04M,-0.23%,479,-
+492,ESQ,"Esquire Financial Holdings, Inc.",411.57M,-0.60%,1490,105.34M
+493,KRNY,Kearny Financial Corp.,410.46M,-0.63%,36309,148.37M
+494,OPY,Oppenheimer Holdings Inc.,408.55M,-0.23%,19870,1.25B
+495,GBLI,"Global Indemnity Group, LLC",400.86M,-,36,574.50M
+496,CSTR,"CapStar Financial Holdings, Inc.",400.27M,-0.10%,8132,113.72M
+497,NETD,Nabors Energy Transition Corp. II,398.41M,-,110,-
+498,CRD.B,Crawford & Company,396.12M,-4.87%,7624,1.32B
+499,CRD.A,Crawford & Company,396.12M,-5.13%,98124,1.32B
+500,HRZN,Horizon Technology Finance Corporation,392.76M,0.43%,123191,113.48M
+501,LCAA,L Catterton Asia Acquisition Corp,391.06M,2.43%,107534,-
+502,SMMF,"Summit Financial Group, Inc.",389.85M,0.94%,566,157.82M
+503,VALU,"Value Line, Inc.",388.20M,-,68,39.04M
+504,HCVI,Hennessy Capital Investment Corp. VI,386.86M,-,44,-
+505,GHI,Greystone Housing Impact Investors LP,382.61M,0.54%,6360,104.90M
+506,BHB,Bar Harbor Bankshares,381.88M,0.58%,4369,154.14M
+507,SHBI,"Shore Bancshares, Inc.",375.73M,0.18%,11099,121.69M
+508,HIFS,Hingham Institution for Savings,375.48M,-0.34%,3790,161.23M
+509,TPVG,TriplePoint Venture Growth BDC Corp.,369.81M,1.32%,221146,137.49M
+510,FFIC,Flushing Financial Corporation,366.02M,1.50%,25058,185.29M
+511,SMBK,"SmartFinancial, Inc.",359.49M,-0.98%,420,155.80M
+512,RRAC,Rigel Resource Acquisition Corp.,356.94M,-,4208,-
+513,JRVR,"James River Group Holdings, Ltd.",354.38M,-13.60%,306351,812.01M
+514,RRBI,"Red River Bancshares, Inc.",352.67M,-,85,108.13M
+515,MOFG,"MidWestOne Financial Group, Inc.",352.34M,0.51%,2064,156.75M
+516,GNTY,"Guaranty Bancshares, Inc.",348.53M,-1.62%,947,121.56M
+517,MCBC,Macatawa Bank Corporation,340.87M,-0.20%,4658,105.34M
+518,SVII,Spring Valley Acquisition Corp. II,335.19M,-0.27%,308,-
+519,MPB,"Mid Penn Bancorp, Inc.",334.29M,0.74%,450,166.56M
+520,FRBA,First Bank,330.58M,0.30%,3637,125.94M
+521,RBB,RBB Bancorp,328.82M,-2.89%,1450,136.91M
+522,IPXX,Inflection Point Acquisition Corp. II,326.56M,-,1190,-
+523,MBI,MBIA Inc.,325.42M,-0.47%,73375,7.00M
+524,SAR,Saratoga Investment Corp.,325.09M,0.80%,75804,138.80M
+525,BWB,"Bridgewater Bancshares, Inc.",324.48M,0.17%,11705,111.84M
+526,EBTC,"Enterprise Bancorp, Inc.",319.20M,-0.23%,1569,161.44M
+527,HIVE,HIVE Blockchain Technologies Ltd.,318.69M,-4.08%,1164090,95.81M
+528,RENE,Cartesian Growth Corporation II,318.12M,-,24,-
+529,TYG,Tortoise Energy Infrastructure Corporation,316.70M,0.41%,9479,176.85M
+530,SCM,Stellus Capital Investment Corporation,313.39M,-0.04%,19749,105.85M
+531,IVCB,Investcorp Europe Acquisition Corp I,307.81M,0.54%,217310,-
+532,SLQT,"SelectQuote, Inc.",307.57M,0.55%,63526,1.16B
+533,HYAC,Haymaker Acquisition Corp. III,306.70M,0.55%,361,-
+534,FRST,Primis Financial Corp.,302.99M,-0.08%,6646,133.22M
+535,ACNB,ACNB Corporation,301.73M,-,301,113.47M
+536,JWSM,Jaws Mustang Acquisition Corporation,301.72M,-0.72%,5890,-
+537,CARE,"Carter Bankshares, Inc.",300.27M,0.15%,4810,-
+538,WTBA,"West Bancorporation, Inc.",298.04M,-0.39%,340,78.40M
+539,ITIC,Investors Title Company,297.30M,-,34,236.56M
+540,FISI,"Financial Institutions, Inc.",296.12M,-1.74%,5763,198.27M
+541,NODK,"NI Holdings, Inc.",293.00M,-0.21%,2975,364.61M
+542,WHF,"WhiteHorse Finance, Inc.",292.17M,0.40%,5971,103.26M
+543,LX,LexinFintech Holdings Ltd.,291.16M,5.93%,437390,1.73B
+544,GOCO,"GoHealth, Inc.",291.05M,-0.31%,626,527.35M
+545,FDBC,"Fidelity D & D Bancorp, Inc.",290.49M,-1.51%,124,80.94M
+546,PFIS,Peoples Financial Services Corp.,290.32M,0.27%,268,106.23M
+547,BCAL,Southern California Bancorp,290.11M,0.13%,3554,-
+548,HBCP,"Home Bancorp, Inc.",289.78M,-0.99%,1319,132.99M
+549,FBIZ,"First Business Financial Services, Inc.",289.23M,0.34%,274,135.71M
+550,ASA,ASA Gold and Precious Metals Limited,289.16M,0.33%,44903,-5.60M
+551,FMAO,"Farmers & Merchants Bancorp, Inc.",289.14M,-0.99%,577,95.69M
+552,HMST,"HomeStreet, Inc.",288.52M,1.01%,30729,209.12M
+553,NEWT,Newtek Business Services Corp.,285.30M,1.47%,22599,166.20M
+554,BSRR,Sierra Bancorp,284.34M,0.55%,1112,137.27M
+555,ORRF,"Orrstown Financial Services, Inc.",283.35M,0.34%,2809,129.91M
+556,CBNK,"Capital Bancorp, Inc.",283.18M,-,79,157.23M
+557,UNTY,"Unity Bancorp, Inc.",281.41M,-1.84%,847,99.97M
+558,TRTL,TortoiseEcofin Acquisition Corp. III,278.31M,-,35,-
+559,FANH,Fanhua Inc.,275.18M,7.04%,17950,462.50M
+560,VBNK,VersaBank,274.70M,-3.31%,9452,83.26M
+561,BMRC,Bank of Marin Bancorp,274.53M,0.35%,9220,121.79M
+562,LNKB,"LINKBANCORP, Inc.",272.59M,0.07%,1965,34.25M
+563,SFST,"Southern First Bancshares, Inc.",272.17M,-0.66%,4029,86.25M
+564,BKCC,BlackRock Capital Investment Corporation,271.42M,0.27%,49540,80.36M
+565,NRIM,"Northrim BanCorp, Inc.",271.01M,-0.97%,1341,125.79M
+566,TCBX,"Third Coast Bancshares, Inc.",270.92M,-0.85%,3461,141.41M
+567,MVBF,MVB Financial Corp.,270.72M,-1.27%,325,144.35M
+568,INBK,First Internet Bancorp,270.48M,1.41%,5633,86.13M
+569,CZNC,Citizens & Northern Corporation,269.96M,-0.23%,2617,106.45M
+570,PRLH,Pearl Holdings Acquisition Corp,268.75M,-0.65%,102,-
+571,SBT,"Sterling Bancorp, Inc. (Southfield, MI)",268.16M,-,200,75.55M
+572,EMLD,FTAC Emerald Acquisition Corp.,264.57M,-,30,-
+573,BTBT,"Bit Digital, Inc.",264.05M,1.62%,2994524,36.64M
+574,BSVN,Bank7 Corp.,258.09M,-3.21%,581,77.57M
+575,FNLC,"The First Bancorp, Inc.",256.81M,-0.35%,310,79.46M
+576,PLAO,Patria Latin American Opportunity Acquisition Corp.,255.05M,-0.09%,1,-
+577,OBT,"Orange County Bancorp, Inc.",254.37M,0.64%,1906,93.42M
+578,JMSB,"John Marshall Bancorp, Inc.",253.97M,-1.39%,199,43.41M
+579,FSBW,"FS Bancorp, Inc.",251.35M,0.31%,448,135.92M
+580,CLBR,Colombier Acquisition Corp.,250.15M,-,125,-
+581,FLIC,The First of Long Island Corporation,248.05M,1.41%,46323,93.53M
+582,PBFS,"Pioneer Bancorp, Inc.",245.23M,-,48,78.37M
+583,PLMJ,Plum Acquisition Corp. III,244.80M,-,7,-
+584,WSBF,"Waterstone Financial, Inc.",239.43M,-1.93%,5699,130.74M
+585,HLXB,Helix Acquisition Corp. II,236.88M,0.78%,2191,-
+586,BCML,BayCom Corp,234.61M,0.89%,836,110.29M
+587,CIVB,"Civista Bancshares, Inc.",232.21M,-0.30%,693,163.55M
+588,RM,Regional Management Corp.,231.47M,3.88%,12062,551.40M
+589,CNDA,Concord Acquisition Corp II,228.95M,-0.76%,134,-
+590,CVCY,Central Valley Community Bancorp,227.73M,0.88%,12032,89.05M
+591,LEGT,Legato Merger Corp. III,227.10M,-,1000,-
+592,PCB,PCB Bancorp,226.03M,0.32%,328,102.10M
+593,BLFY,Blue Foundry Bancorp,222.31M,0.33%,1207,48.15M
+594,CVLY,"Codorus Valley Bancorp, Inc.",221.50M,0.37%,443,96.61M
+595,CONX,CONX Corp.,221.43M,-2.15%,1720,-
+596,SSBK,"Southern States Bancshares, Inc.",220.15M,-,117,85.50M
+597,NECB,"Northeast Community Bancorp, Inc.",219.25M,-1.55%,94919,94.86M
+598,USCB,"USCB Financial Holdings, Inc.",218.27M,1.35%,241,65.24M
+599,SBXC,SilverBox Corp III,217.14M,-0.43%,6520,-
+600,FVCB,"FVCBankcorp, Inc.",216.71M,0.66%,112,53.24M
+601,TSBK,"Timberland Bancorp, Inc.",216.07M,0.94%,478,75.91M
+602,NWFL,Norwood Financial Corp.,215.81M,-1.54%,310,72.20M
+603,PDLB,"Ponce Financial Group, Inc.",213.12M,-0.56%,411,59.62M
+604,HRTG,"Heritage Insurance Holdings, Inc.",212.89M,2.44%,68746,723.12M
+605,PHYT,Pyrophyte Acquisition Corp.,211.49M,-0.09%,102,-
+606,CFFS,CF Acquisition Corp. VII,209.00M,-,160,-
+607,SWKH,SWK Holdings Corporation,204.30M,-,39,37.67M
+608,PKBK,"Parke Bancorp, Inc.",203.93M,-0.53%,2033,75.38M
+609,CALB,California BanCorp,202.84M,1.16%,387,81.12M
+610,PLBC,Plumas Bancorp,202.76M,-,138,77.07M
+611,NFYS,Enphys Acquisition Corp.,202.54M,-,231,-
+612,XYF,X Financial,202.23M,-1.19%,15024,629.69M
+613,OVLY,Oak Valley Bancorp,201.69M,-,162,85.01M
+614,CZFS,"Citizens Financial Services, Inc.",201.67M,2.70%,844,86.34M
+615,CHMG,Chemung Financial Corporation,201.57M,-0.83%,984,99.48M
+616,BWFG,"Bankwell Financial Group, Inc.",200.61M,0.16%,1810,97.18M
+617,NKSH,"National Bankshares, Inc.",200.39M,-1.03%,100,55.10M
+618,COFS,"ChoiceOne Financial Services, Inc.",198.52M,0.80%,384,81.38M
+619,SEDA,SDCL EDGE Acquisition Corporation,198.50M,0.09%,1000,-
+620,KVAC,Keen Vision Acquisition Corporation,198.12M,-,95500,-
+621,SEZL,Sezzle Inc.,197.85M,-5.01%,7070,159.36M
+622,MCAA,Mountain & Co. I Acquisition Corp.,197.84M,-,2100,-
+623,MNTN,Everest Consolidator Acquisition Corporation,196.52M,-0.40%,1,-
+624,CBAN,"Colony Bankcorp, Inc.",195.14M,0.99%,4510,111.79M
+625,MBCN,Middlefield Banc Corp.,194.53M,1.41%,684,68.96M
+626,CRML,Critical Metals Corp.,192.98M,11.17%,10266,-
+627,LCNB,LCNB Corp.,191.82M,0.03%,3456,72.49M
+628,OCN,Ocwen Financial Corporation,191.80M,1.92%,764,1.07B
+629,BPRN,Princeton Bancorp Inc,190.94M,-0.33%,750,83.99M
+630,FFNW,"First Financial Northwest, Inc.",190.84M,-0.19%,236,46.32M
+631,MFIN,Medallion Financial Corp.,189.98M,-2.78%,50006,161.60M
+632,PEGR,Project Energy Reimagined Acquisition Corp.,187.84M,-0.09%,142,-
+633,SNFCA,Security National Financial Corporation,187.75M,-0.31%,697,351.77M
+634,XPDB,Power & Digital Infrastructure Acquisition II Corp.,185.08M,10.38%,353,-
+635,VSTE,Vast Renewables Limited,184.26M,-1.75%,772,919.00K
+636,EHTH,"eHealth, Inc.",184.05M,-1.18%,28601,452.87M
+637,OXSQ,Oxford Square Capital Corp.,182.53M,0.86%,63561,51.41M
+638,IVCA,Investcorp India Acquisition Corp,181.28M,-,106,-
+639,ESSA,"ESSA Bancorp, Inc.",181.15M,0.89%,162,68.56M
+640,WNEB,"Western New England Bancorp, Inc.",180.92M,-0.24%,2554,77.93M
+641,PTMN,Portman Ridge Finance Corporation,179.97M,0.55%,5834,77.14M
+642,TRIS,Tristar Acquisition I Corp.,178.59M,0.15%,1,-
+643,CPSS,"Consumer Portfolio Services, Inc.",176.78M,1.02%,5737,343.06M
+644,BCBP,"BCB Bancorp, Inc.",175.56M,0.38%,10227,102.05M
+645,APCA,AP Acquisition Corp.,175.51M,0.27%,206,-
+646,CFFI,C&F Financial Corporation,175.39M,-0.35%,143,119.05M
+647,PVBC,"Provident Bancorp, Inc.",173.77M,-0.71%,724,71.12M
+648,PMTS,CPI Card Group Inc.,171.24M,10.99%,21675,444.55M
+649,EVE,EVe Mobility Acquisition Corp,169.92M,-,249,-
+650,SKGR,SK Growth Opportunities Corporation,169.18M,-0.08%,27780,-
+651,VERY,"Vericity, Inc.",168.68M,-0.26%,158,175.00M
+652,SPKL,Spark I Acquisition Corp. Class A Ordinary Share,168.16M,-0.19%,4,-
+653,ATLO,Ames National Corporation,167.88M,1.98%,11070,53.05M
+654,CAPT,Captivision Inc.,167.43M,-1.52%,23980,32.75M
+655,GAQ,Generation Asia I Acquisition Limited,167.16M,-,1800,-
+656,LCW,Learn CW Investment Corporation,165.81M,-,1,-
+657,BRKH,Burtech Acquisition Corp.,165.27M,1.10%,109,-
+658,APXI,APx Acquisition Corp. I,161.31M,-0.25%,2602,-
+659,MRCC,Monroe Capital Corporation,161.20M,1.61%,36913,63.96M
+660,EVBN,"Evans Bancorp, Inc.",160.97M,0.65%,1810,94.11M
+661,SOC,Sable Offshore Corp.,160.84M,1.50%,3365,-
+662,ALCY,Alchemy Investments Acquisition Corp 1,158.16M,-0.05%,1,-
+663,VABK,Virginia National Bankshares Corporation,157.60M,-0.24%,627,63.42M
+664,ISTR,Investar Holding Corporation,157.00M,-0.37%,161,83.06M
+665,OPBK,OP Bancorp,156.90M,-,81,84.38M
+666,KRNL,"Kernel Group Holdings, Inc.",152.58M,-1.10%,114,-
+667,GSIW,Garden Stage Limited,152.50M,2.72%,1260,3.26M
+668,PEBK,"Peoples Bancorp of North Carolina, Inc.",151.84M,-0.65%,718,76.07M
+669,BFAC,Battery Future Acquisition Corp.,151.48M,-0.09%,20,-
+670,ROSS,Ross Acquisition Corp II,150.87M,0.09%,2152,-
+671,SAMG,Silvercrest Asset Management Group Inc.,150.81M,1.23%,2463,117.41M
+672,FNWB,First Northwest Bancorp,150.81M,0.32%,571,76.03M
+673,IFIN,InFinT Acquisition Corporation,150.56M,-0.04%,738,-
+674,ESHA,ESH Acquisition Corp.,148.53M,-0.10%,163,-
+675,MHLD,"Maiden Holdings, Ltd.",148.38M,-4.08%,5439,73.74M
+676,BCSA,Blockchain Coinvestors Acquisition Corp. I,148.17M,0.09%,165,-
+677,FUNC,First United Corporation,147.90M,0.18%,1249,75.75M
+678,TLGY,TLGY Acquisition Corporation,147.15M,-,113,-
+679,PWOD,"Penns Woods Bancorp, Inc.",147.10M,0.67%,2652,63.96M
+680,CFBK,CF Bankshares Inc.,142.14M,0.74%,930,50.61M
+681,VCXB,10X Capital Venture Acquisition Corp. III,142.10M,-0.09%,7,-
+682,HWBK,"Hawthorn Bancshares, Inc.",141.91M,1.69%,8404,65.90M
+683,WNNR,Andretti Acquisition Corp.,141.87M,-3.08%,1357,-
+684,AHG,Akso Health Group,141.36M,-4.23%,4052,2.20M
+685,MFH,Mercurity Fintech Holding Inc.,141.10M,7.49%,434,326.68K
+686,FGBI,"First Guaranty Bancshares, Inc.",140.35M,-0.44%,250,95.22M
+687,OFS,OFS Capital Corporation,140.14M,-0.81%,26444,56.94M
+688,TWLV,Twelve Seas Investment Company II,139.60M,0.19%,67880,-
+689,CNF,CNFinance Holdings Limited,139.22M,-2.12%,3455,81.00M
+690,ALSA,Alpha Star Acquisition Corporation,138.39M,-,1,-
+691,ISRL,Israel Acquisitions Corp,137.88M,0.19%,200,-
+692,LGVC,LAMF Global Ventures Corp. I,136.79M,-,581,-
+693,MNSB,"MainStreet Bancshares, Inc.",136.70M,-0.58%,3366,81.08M
+694,ATEK,Athena Technology Acquisition Corp. II,136.57M,1.07%,24,-
+695,MYFW,"First Western Financial, Inc.",136.44M,2.53%,125,95.99M
+696,IRRX,Integrated Rail and Resources Acquisition Corp.,136.34M,-,210,-
+697,CNDB,Concord Acquisition Corp III,135.09M,-,140,-
+698,UNB,"Union Bankshares, Inc.",134.63M,-,67,48.79M
+699,CWBC,Community West Bancshares,133.70M,0.90%,1036,49.29M
+700,NNAG,99 Acquisition Group Inc.,133.13M,-,40115,-
+701,BANX,ArrowMark Financial Corp.,132.79M,0.27%,923,-
+702,VMCA,Valuence Merger Corp. I,132.71M,-1.41%,392,-
+703,UBFO,United Security Bancshares,130.82M,-1.57%,7914,53.29M
+704,FCCO,First Community Corporation,130.14M,0.79%,1433,59.21M
+705,ZLS,Zalatoris II Acquisition Corp.,129.05M,-0.19%,6,-
+706,RMBI,"Richmond Mutual Bancorporation, Inc.",128.90M,-1.13%,1692,43.45M
+707,CZWI,"Citizens Community Bancorp, Inc.",127.78M,1.92%,32035,59.07M
+708,RMGC,RMG Acquisition Corp. III,127.11M,-,61,-
+709,FIAC,Focus Impact Acquisition Corp.,126.44M,-,290,-
+710,ARRW,Arrowroot Acquisition Corp.,126.22M,0.46%,11002,-
+711,FINW,FinWise Bancorp,125.69M,0.40%,767,66.03M
+712,BFIN,BankFinancial Corporation,125.48M,0.79%,320,55.93M
+713,DSAQ,Direct Selling Acquisition Corp.,125.14M,0.82%,397,-
+714,GATE,Marblegate Acquisition Corp.,125.06M,-,2546,-
+715,NPAB,New Providence Acquisition Corp. II,124.05M,0.09%,300002,-
+716,PLMI,Plum Acquisition Corp. I,123.93M,-,7010,-
+717,OPRT,Oportun Financial Corporation,123.91M,3.59%,21877,352.01M
+718,KCGI,Kensington Capital Acquisition Corp. V,123.70M,-,28,-
+719,EVGR,Evergreen Corporation,123.21M,-,364,-
+720,FNCB,"FNCB Bancorp, Inc.",122.88M,-4.03%,7622,52.66M
+721,PPYA,Papaya Growth Opportunity Corp. I,121.05M,-,928,-
+722,ECBK,"ECB Bancorp, Inc.",120.79M,0.04%,51,24.85M
+723,BOCN,Blue Ocean Acquisition Corp.,118.87M,0.18%,5,-
+724,RCFA,RCF Acquisition Corp.,118.65M,0.36%,101,-
+725,WMPN,William Penn Bancorporation,118.34M,0.73%,972,21.96M
+726,ARBK,Argo Blockchain plc,117.59M,-3.24%,334262,-
+727,HNVR,"Hanover Bancorp, Inc.",117.33M,-0.18%,1708,60.45M
+728,IXAQ,IX Acquisition Corp.,115.80M,0.09%,7,-
+729,FRAF,Franklin Financial Services Corporation,115.79M,-,10,66.13M
+730,CIA,"Citizens, Inc.",115.46M,-0.21%,27190,241.09M
+731,FSFG,"First Savings Financial Group, Inc.",115.40M,-,4355,80.32M
+732,OVBC,Ohio Valley Banc Corp.,114.56M,-1.84%,5469,55.28M
+733,PGSS,Pegasus Digital Mobility Acquisition Corp.,114.01M,-,321,-
+734,CBFV,"CB Financial Services, Inc.",113.65M,-,16,54.22M
+735,BYNO,byNordic Acquisition Corporation,113.45M,-0.18%,4,-
+736,COOL,Corner Growth Acquisition Corp.,113.38M,-,1,-
+737,MRBK,Meridian Corporation,112.39M,2.04%,6274,99.43M
+738,CDAQ,Compass Digital Acquisition Corp.,112.19M,-,100,-
+739,FXNC,First National Corporation,111.73M,-,68,55.98M
+740,SHAP,Spree Acquisition Corp. 1 Limited,111.09M,-0.18%,275,-
+741,PFTA,Perception Capital Corp. III,111.05M,0.09%,10250,-
+742,CITE,Cartica Acquisition Corp,110.61M,0.09%,339,-
+743,LARK,"Landmark Bancorp, Inc.",110.54M,0.81%,430,57.78M
+744,SSSS,SuRo Capital Corp.,110.29M,0.18%,20639,5.60M
+745,TGAA,Target Global Acquisition I Corp.,110.01M,-0.18%,200,-
+746,CMCA,Capitalworks Emerging Markets Acquisition Corp,109.98M,-,150,-
+747,CHAA,Catcha Investment Corp,109.39M,-,25,-
+748,WHG,"Westwood Holdings Group, Inc.",108.75M,0.17%,6071,89.78M
+749,AFBI,"Affinity Bancshares, Inc.",108.12M,-0.24%,964,30.20M
+750,HGBL,Heritage Global Inc.,107.77M,0.86%,37527,59.09M
+751,PORT,Southport Acquisition Corporation,107.42M,-0.28%,250,-
+752,DPCS,DP Cap Acquisition Corp I,107.41M,-,74,-
+753,MCAC,Monterey Capital Acquisition Corporation,106.34M,0.09%,10100,-
+754,HCMA,HCM Acquisition Corp,106.06M,-1.64%,3195,-
+755,GPAC,Global Partner Acquisition Corp II,105.96M,-,70,-
+756,CSLM,CSLM Acquisition Corp,104.49M,0.18%,1003,-
+757,EBMT,"Eagle Bancorp Montana, Inc.",104.22M,-,52,83.74M
+758,THCP,Thunder Bridge Capital Partners IV Inc.,103.60M,-,136,-
+759,MITA,Coliseum Acquisition Corp.,103.41M,-,9,-
+760,TWOA,two,102.48M,-,8,-
+761,BLUA,BlueRiver Acquisition Corp.,102.18M,-,469,-
+762,FNVT,Finnovate Acquisition Corp.,101.85M,-,2,-
+763,FNWD,Finward Bancorp,101.47M,-,9,68.25M
+764,GECC,Great Elm Capital Corp.,101.14M,1.34%,3815,35.83M
+765,SFBC,"Sound Financial Bancorp, Inc.",101.08M,-,4,41.05M
+766,RVSB,"Riverview Bancorp, Inc.",100.70M,1.57%,3674,53.32M
+767,FTII,FutureTech II Acquisition Corp.,100.64M,-,881,-
+768,ATMV,AlphaVest Acquisition Corp,100.07M,-,21955,-
+769,PROP,Prairie Operating Co.,100.05M,-1.35%,3412,-
+770,TOP,TOP Financial Group Limited,99.57M,3.53%,73265,11.69M
+771,CNGL,Canna-Global Acquisition Corp,99.36M,0.32%,3,-
+772,PWUP,PowerUp Acquisition Corp.,99.35M,-,11,-
+773,GAMC,Golden Arrow Merger Corp.,99.10M,-0.28%,3,-
+774,SRL,Scully Royalty Ltd.,98.57M,0.75%,130,40.69M
+775,TENK,TenX Keane Acquisition Ordinary Share,98.44M,-,3,-
+776,BSBK,Bogota Financial Corp.,98.27M,3.17%,120,19.16M
+777,MDBH,"MDB Capital Holdings, LLC Class A common",97.33M,-1.15%,1311,6.09M
+778,PROV,"Provident Financial Holdings, Inc.",97.32M,-,6,40.35M
+779,PMGM,Priveterra Acquisition Corp.,97.22M,-0.18%,2,-
+780,BLAC,Bellevue Life Sciences Acquisition Corp.,96.35M,-,2,-
+781,QDRO,Quadro Acquisition One Corp.,96.34M,-,5,-
+782,BOWN,Bowen Acquisition Corp,95.70M,-,253,-
+783,TBMC,Trailblazer Merger Corporation I,95.20M,-0.14%,6,-
+784,OSI,Osiris Acquisition Corp.,94.82M,0.84%,480,-
+785,HSPO,Horizon Space Acquisition I Corp.,93.74M,-0.09%,202,-
+786,RBKB,"Rhinebeck Bancorp, Inc.",93.56M,-,40,42.48M
+787,SBFG,"SB Financial Group, Inc.",92.70M,1.29%,2,56.68M
+788,RWOD,Redwoods Acquisition Corp.,92.68M,3.03%,12,-
+789,GODN,Golden Star Acquisition Corporation,92.36M,0.19%,56,-
+790,PFX,PhenixFIN Corporation,91.96M,-,86,21.15M
+791,DISA,Disruptive Acquisition Corporation I,91.68M,-1.66%,263,-
+792,BLEU,bleuacacia ltd,91.54M,-0.28%,224,-
+793,FCAP,"First Capital, Inc.",91.37M,-2.07%,25,41.66M
+794,GLAC,Global Lights Acquisition Corp,91.28M,-0.10%,3,-
+795,QETA,Quetta Acquisition Corporation,91.13M,-,15464,-
+796,HMNF,"HMN Financial, Inc.",90.94M,-,19,39.84M
+797,SRBK,"SR Bancorp, Inc.",89.75M,-,13,-
+798,GLLI,Globalink Investment Inc.,89.33M,-,5,-
+799,ARYD,ARYA Sciences Acquisition Corp IV,89.02M,-,3405,-
+800,IROH,Iron Horse Acquisitions Corp.,88.81M,-,512,-
+801,AACI,Armada Acquisition Corp. I,88.64M,-0.63%,307,-
+802,DYCQ,DT Cloud Acquisition Corporation,88.35M,-,3,-
+803,ONYX,Onyx Acquisition Co. I,88.04M,-,143,-
+804,ACAB,Atlantic Coastal Acquisition Corp. II,87.55M,-1.29%,3759,-
+805,USCT,Roth CH Acquisition Co,87.43M,-,12004,-
+806,ALTU,Altitude Acquisition Corp.,86.96M,-0.10%,1,-
+807,TMTC,TMT Acquisition Corp,86.94M,-,100,-
+808,FLFV,Feutune Light Acquisition Corporation,86.89M,-0.37%,2,-
+809,XFIN,ExcelFin Acquisition Corp.,86.35M,-0.09%,3,-
+810,GLST,"Global Star Acquisition, Inc.",86.09M,1.12%,100,-
+811,IVCP,Swiftmerge Acquisition Corp.,86.08M,-0.91%,169,-
+812,DHCA,DHC Acquisition Corp.,85.50M,-18.90%,28946,-
+813,BITE,Bite Acquisition Corp.,85.35M,0.28%,15106,-
+814,ASCB,A SPAC II Acquisition Corporation,85.22M,-0.60%,252,-
+815,IMAQ,International Media Acquisition Corp.,85.15M,-0.96%,343,-
+816,BHAC,Focus Impact BH3 Acquisition Co.,84.49M,-,30,-
+817,DMYY,"dMY Squared Technology Group, Inc.",84.20M,0.19%,219,-
+818,DUET,DUET Acquisition Corp.,84.14M,-0.63%,475,-
+819,EAC,Edify Acquisition Corp.,83.95M,-0.19%,31076,-
+820,OPOF,Old Point Financial Corporation,83.16M,1.56%,528,60.88M
+821,AITR,AI TRANSPORTATION ACQUISITION CORP,83.13M,-,2214,-
+822,OCAX,OCA Acquisition Corp.,82.65M,-0.37%,502,-
+823,EMCG,Embrace Change Acquisition Corp,82.62M,-,39,-
+824,JVSA,JVSPAC Acquisition Corp.,82.00M,1.79%,418,-
+825,BRLS,Borealis Foods Inc.,81.90M,0.69%,2270,33.39M
+826,AEAE,AltEnergy Acquisition Corp.,81.67M,0.36%,600,-
+827,BACA,Berenson Acquisition Corp. I,81.57M,-,1,-
+828,PUCK,Goal Acquisitions Corp.,81.57M,-,58,-
+829,BUJA,Bukit Jalil Global Acquisition 1 Ltd,81.11M,-0.38%,220,-
+830,BAYA,Bayview Acquisition Corp,80.76M,-,502,-
+831,LATG,Chenghe Acquisition I Co.,80.48M,-0.44%,2,-
+832,WEL,Integrated Wellness Acquisition Corp,80.43M,-,4,-
+833,OAKU,Oak Woods Acquisition Corporation,80.28M,-0.37%,1331,-
+834,FOA,Finance Of America Companies Inc.,80.16M,1.84%,543,52.11M
+835,LIBY,Liberty Resources Acquisition Corp.,79.76M,-,2215,-
+836,GTAC,Global Technology Acquisition Corp. I,79.34M,-,4,-
+837,CETU,Cetus Capital Acquisition Corp.,79.16M,0.19%,64001,-
+838,RFAC,RF Acquisition Corp.,78.22M,-0.09%,266,-
+839,IRAA,Iris Acquisition Corp,78.11M,-,3,-
+840,TCOA,Zalatoris Acquisition Corp,77.95M,-0.28%,100,-
+841,GBBK,Global Blockchain Acquisition Corp.,77.44M,-0.15%,1504,-
+842,SWSS,Clean Energy Special Situations Corp,76.92M,-,95,-
+843,CULL,"Cullman Bancorp, Inc.",76.90M,1.24%,1,17.00M
+844,MGYR,"Magyar Bancorp, Inc.",76.52M,-,7,30.24M
+845,TBNK,Territorial Bancorp Inc.,75.73M,-,197,49.65M
+846,INAQ,Insight Acquisition Corp.,75.40M,0.28%,2,-
+847,FEXD,Fintech Ecosystem Development Corp.,75.22M,-0.14%,176,-
+848,SSBI,Summit State Bank,74.96M,-0.09%,2888,52.46M
+849,ATMC,AlphaTime Acquisition Corp,74.92M,-,4,-
+850,FRLA,Fortune Rise Acquisition Corporation,74.91M,-,2,-
+851,GDST,Goldenstone Acquisition Limited,74.80M,-,50,-
+852,TETE,Technology & Telecommunication Acquisition Corporation,74.57M,0.08%,202,-
+853,TRON,Corner Growth Acquisition Corp. 2,74.52M,-,3,-
+854,CBRG,Chain Bridge I,74.19M,-,1,-
+855,BWAQ,Blue World Acquisition Corporation,73.88M,0.09%,7651,-
+856,FORL,Four Leaf Acquisition Corporation,73.09M,-0.47%,2420,-
+857,PBHC,"Pathfinder Bancorp, Inc.",72.58M,-1.89%,3522,42.12M
+858,GMFI,Aetherium Acquisition Corp.,72.26M,-0.99%,892,-
+859,SIEB,Siebert Financial Corp.,71.64M,3.85%,31471,65.55M
+860,AUBN,"Auburn National Bancorporation, Inc.",71.55M,0.81%,244,33.28M
+861,MSSA,Metal Sky Star Acquisition Corporation,71.25M,-0.36%,142,-
+862,FHLT,Future Health ESG Corp.,71.06M,-,1790,-
+863,UBCP,"United Bancorp, Inc.",70.61M,0.51%,231,30.25M
+864,SEPA,SEP Acquisition Corp.,68.80M,-,466,-
+865,DIST,Distoken Acquisition Corporation,68.48M,-0.47%,2483,-
+866,NVAC,NorthView Acquisition Corporation,67.81M,-,1,-
+867,MAQC,Maquia Capital Acquisition Corporation,67.72M,0.09%,1623,-
+868,ROCL,Roth Ch Acquisition V Co.,67.27M,-0.55%,1700,-
+869,IOR,"Income Opportunity Realty Investors, Inc.",67.11M,-,523,-
+870,PTWO,"Pono Capital Two, Inc.",65.88M,-,1,-
+871,GRYP,Gryphon Digital Mining Inc.,65.85M,17.65%,430263,2.17M
+872,KYCH,Keyarch Acquisition Corporation,65.55M,-0.36%,2,-
+873,CLOE,Clover Leaf Capital Corp.,64.89M,-3.88%,3495,-
+874,LSBK,"Lake Shore Bancorp, Inc.",64.81M,-0.02%,608,28.43M
+875,AFAR,Aura FAT Projects Acquisition Corp,64.18M,-,22,-
+876,NBST,Newbury Street Acquisition Corporation,63.90M,-0.64%,3702,-
+877,APAC,StoneBridge Acquisition Corporation,62.16M,-6.83%,853,-
+878,TCBC,"TC Bancshares, Inc.",61.73M,-0.66%,3,15.55M
+879,IGTA,Inception Growth Acquisition Limited,60.57M,-0.10%,237,-
+880,LRFC,Logan Ridge Finance Corporation,60.54M,0.11%,109,20.30M
+881,VBFC,Village Bank and Trust Financial Corp.,60.54M,-0.77%,23,25.69M
+882,ACAC,Acri Capital Acquisition Corporation,60.34M,-,264,-
+883,BNIX,Bannix Acquisition Corp.,59.83M,-,284754,-
+884,HAIA,Healthcare AI Acquisition Corp.,59.35M,-,127,-
+885,BHM,"Bluerock Homes Trust, Inc.",58.24M,1.33%,2251,40.31M
+886,AAME,Atlantic American Corporation,57.74M,1.70%,4508,185.28M
+887,FUSB,"First US Bancshares, Inc.",57.35M,-2.15%,343,39.99M
+888,SDIG,"Stronghold Digital Mining, Inc.",57.07M,-0.21%,224902,74.97M
+889,IROQ,"IF Bancorp, Inc.",56.03M,-0.16%,12,22.35M
+890,CLST,"Catalyst Bancorp, Inc.",55.95M,-0.43%,24243,8.96M
+891,CCTS,Cactus Acquisition Corp. 1 Limited,55.47M,-0.18%,1,-
+892,PEPL,PepperLime Health Acquisition Corporation,55.15M,0.28%,1903,-
+893,HHGC,HHG Capital Corporation,55.10M,-,7,-
+894,MBTC,Nocturne Acquisition Corporation,54.51M,-,60,-
+895,RACY,Relativity Acquisition Corp.,54.04M,-,46424,-
+896,PLTN,Plutonian Acquisition Corp.,53.63M,0.23%,28,-
+897,BAFN,BayFirst Financial Corp.,53.40M,-,11,71.19M
+898,BRAC,Broad Capital Acquisition Corp.,52.83M,-0.36%,501,-
+899,CLRC,ClimateRock,52.24M,-,203920,-
+900,BYFC,Broadway Financial Corporation,52.05M,-,981,32.11M
+901,HNNA,"Hennessy Advisors, Inc.",51.81M,0.15%,85,24.02M
+902,BOTJ,"Bank of the James Financial Group, Inc.",51.34M,-,249,43.33M
+903,BRBS,"Blue Ridge Bankshares, Inc.",51.07M,7.52%,48176,109.48M
+904,NSTS,"NSTS Bancorp, Inc.",50.34M,-,121,7.10M
+905,NICK,"Nicholas Financial, Inc.",50.15M,-,72,27.06M
+906,SHFS,"SHF Holdings, Inc.",49.60M,-2.61%,12648,16.66M
+907,BREZ,Breeze Holdings Acquisition Corp.,49.44M,0.52%,4845,-
+908,AQU,Aquaron Acquisition Corp.,49.31M,-,28646,-
+909,CFSB,"CFSB Bancorp, Inc.",49.21M,-,3576,8.41M
+910,VSAC,Vision Sensing Acquisition Corp.,48.82M,-0.80%,23537,-
+911,WTMA,Welsbach Technology Metals Acquisition Corp.,48.58M,-0.05%,1201,-
+912,ESAC,ESGEN Acquisition Corporation,48.45M,7.58%,8574,-
+913,ICMB,"Investcorp Credit Management BDC, Inc.",48.09M,-1.18%,15328,25.75M
+914,ICCH,"ICC Holdings, Inc.",47.71M,1.70%,3018,81.12M
+915,MARX,Mars Acquisition Corp.,47.69M,-0.09%,12,-
+916,HUDA,Hudson Acquisition I Corp.,47.34M,-0.19%,130,-
+917,AOGO,Arogo Capital Acquisition Corp.,47.02M,0.28%,100,-
+918,WINV,WinVest Acquisition Corp.,46.25M,-0.09%,1,-
+919,ASCA,A SPAC I Acquisition Corp.,45.98M,1.06%,470,-
+920,ASRV,"AmeriServ Financial, Inc.",44.93M,-,886,53.41M
+921,INTE,Integral Acquisition Corporation 1,44.11M,0.18%,368,-
+922,MACA,Moringa Acquisition Corp,44.08M,-2.55%,102,-
+923,MCAF,Mountain Crest Acquisition Corp. IV,43.72M,0.08%,52,-
+924,TURN,180 Degree Capital Corp.,43.60M,-0.23%,108,-7.89M
+925,YOTA,Yotta Acquisition Corporation,43.39M,4.66%,1,-
+926,TCBS,"Texas Community Bancshares, Inc.",43.29M,1.05%,339,10.93M
+927,KACL,Kairous Acquisition Corp. Limited,43.17M,0.51%,344,-
+928,ENCP,Energem Corp.,43.02M,19.43%,252916,-
+929,FSEA,First Seacoast Bancorp,42.85M,0.12%,101,13.62M
+930,FGF,Fundamental Global Inc.,42.67M,-2.32%,692,24.80M
+931,GROW,"U.S. Global Investors, Inc.",42.60M,0.23%,8260,12.89M
+932,CPBI,"Central Plains Bancshares, Inc.",42.34M,-,85,-
+933,BCOW,"1895 Bancorp of Wisconsin, Inc.",42.22M,-4.42%,19,13.76M
+934,PBM,Psyence Biomedical Ltd.,42.09M,-11.14%,1607694,-
+935,ACBA,Ace Global Business Acquisition Limited,41.86M,-,116,-
+936,AIB,AIB Acquisition Corporation,41.72M,-1.20%,8,-
+937,DHAC,Digital Health Acquisition Corp.,41.30M,0.17%,3423,-
+938,ADRT,Ault Disruptive Technologies Corporation,41.15M,-0.07%,1101,-
+939,OTEC,OceanTech Acquisitions I Corp.,41.10M,0.43%,14149,-
+940,HFBL,"Home Federal Bancorp, Inc. of Louisiana",40.87M,-,13,22.41M
+941,TGVC,TG Venture Acquisition Corp.,40.62M,-2.70%,8032,-
+942,KINS,"Kingstone Companies, Inc.",40.19M,-0.94%,1254,144.68M
+943,MGLD,"The Marygold Companies, Inc.",39.83M,12.87%,2342,33.87M
+944,QOMO,Qomolangma Acquisition Corp.,38.94M,-,703,-
+945,NOVV,Nova Vision Acquisition Corporation,38.49M,-0.43%,29,-
+946,HYW,Hywin Holdings Ltd.,37.80M,11.85%,2933,288.92M
+947,WAVS,Western Acquisition Ventures Corp.,37.63M,-,250,-
+948,CERO,CERo Therapeutics Holdings Inc.,36.47M,-24.81%,670896,-
+949,GREE,Greenidge Generation Holdings Inc.,36.29M,3.45%,137620,42.37M
+950,PBBK,"PB Bankshares, Inc.",35.70M,1.68%,14,12.95M
+951,RAND,Rand Capital Corporation,35.59M,-2.94%,723,7.34M
+952,DECA,Denali Capital Acquisition Corp.,35.51M,0.37%,8324,-
+953,AVHI,Achari Ventures Holdings Corp. I,34.90M,-,4,-
+954,ADOC,Edoc Acquisition Corp.,34.43M,-10.52%,1757,-
+955,MCAG,Mountain Crest Acquisition Corp. V,34.24M,0.09%,100,-
+956,HUIZ,Huize Holding Limited,33.57M,4.07%,2853,1.22B
+957,OPHC,"OptimumBank Holdings, Inc.",33.21M,0.22%,638,23.12M
+958,KFFB,Kentucky First Federal Bancorp,31.30M,-3.20%,1130,7.54M
+959,FUFU,BitFuFu Inc.,31.09M,4.33%,39871,250.64M
+960,BTM,Bitcoin Depot Inc.,30.22M,2.92%,43123,1.19B
+961,AGBA,AGBA Acquisition Limited,29.81M,-1.01%,80804,-
+962,SWIN,Solowin Holdings Ordinary Share,29.56M,14.51%,52600,4.45M
+963,ABTS,Abits Group Inc.,29.30M,5.71%,27089,131.28K
+964,QTI,"QT Imaging Holdings, Inc.",28.79M,-,176185,708.24K
+965,PPHP,PHP Ventures Acquisition Corp.,28.75M,-,1,-
+966,MIGI,"Mawson Infrastructure Group, Inc.",28.13M,-2.37%,761427,46.41M
+967,SWAG,Stran & Company Inc,26.19M,1.06%,4399,70.86M
+968,BENF,Beneficient,25.55M,-5.84%,2018517,-160.64M
+969,CWD,CaliberCos Inc.,25.32M,1.71%,117,88.46M
+970,BTCS,BTCS Inc.,24.32M,-1.29%,41035,1.28M
+971,GBNY,"Generations Bancorp NY, Inc.",23.48M,-2.22%,725,11.09M
+972,SAI,SAI.TECH Global Corporation,22.89M,6.77%,43907,8.29M
+973,TCJH,Top KingWin Ltd,22.72M,-1.30%,6610,3.12M
+974,RMCO,Royalty Management Holding Corporation,20.70M,-4.14%,181363,239.05K
+975,EQS,"Equus Total Return, Inc.",20.02M,0.59%,939,60.00K
+976,GRDI,GRIID Infrastructure Inc.,19.29M,1.10%,13690,27.21M
+977,PT,Pintec Technology Holdings Limited,18.66M,0.43%,36260,9.65M
+978,GLBZ,Glen Burnie Bancorp,18.45M,0.63%,1552,13.84M
+979,NISN,"Nisun International Enterprise Development Group Co., Ltd",17.88M,-0.23%,35192,243.07M
+980,SVMH,SRIVARU Holding Limited,17.30M,-3.56%,3637259,112.41K
+981,LBBB,Lakeshore Acquisition II Corp.,17.01M,-5.20%,100,-
+982,MCVT,"Mill City Ventures III, Ltd.",15.96M,-,318,2.51M
+983,PNBK,"Patriot National Bancorp, Inc.",15.82M,-,20,26.35M
+984,COHN,Cohen & Company Inc.,15.03M,-0.58%,2873,82.98M
+985,MEGL,Magic Empire Global Limited,15.03M,-1.62%,26656,1.20M
+986,CNFR,"Conifer Holdings, Inc.",13.20M,-,105,106.12M
+987,PWM,Prestige Wealth Inc.,12.54M,-1.46%,40513,348.53K
+988,AAMC,Altisource Asset Management Corporation,10.75M,-0.26%,28,5.63M
+989,PAPL,Pineapple Financial Inc.,10.27M,3.62%,2395,2.18M
+990,HNRA,HNR Acquisition Corp,10.16M,2.10%,36,-
+991,AIHS,Senmiao Technology Limited,9.81M,1.66%,3115,7.30M
+992,CURO,CURO Group Holdings Corp.,8.51M,1.89%,41119,517.39M
+993,CARV,"Carver Bancorp, Inc.",8.48M,1.76%,939,27.57M
+994,AINC,Ashford Inc.,8.06M,-1.59%,1545,737.46M
+995,ATIF,ATIF Holdings Limited,7.85M,18.28%,2424,2.28M
+996,SNTG,Sentage Holdings Inc.,6.90M,-0.41%,5947,-16.04K
+997,LMFA,"LM Funding America, Inc.",6.36M,27.02%,3249835,10.05M
+998,OXBR,Oxbridge Re Holdings Limited,5.20M,7.80%,10033,-4.10M
+999,LGHL,Lion Group Holding Ltd.,3.47M,-1.17%,34988,15.18M
+1000,NCPL,Netcapital Inc.,2.12M,-4.70%,120338,8.94M
+1001,RELI,"Reliance Global Group, Inc.",1.91M,-0.05%,52593,14.57M
+1002,TIRX,Tian Ruixiang Holdings Ltd,1.77M,1.78%,7604,1.13M
+1003,DXF,Dunxin Financial Holdings Limited,1.32M,-0.27%,13443,-2.77M
+1004,AIMAU,Aimfinity Investment Corp. I,20.54K,-,1900,-
